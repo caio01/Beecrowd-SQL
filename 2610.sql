@@ -1,0 +1,1 @@
+select CAST(AVG(price) as numeric(10,2)) from products
